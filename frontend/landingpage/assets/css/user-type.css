@@ -1,0 +1,32 @@
+.login {
+    min-height: 100vh;
+}
+
+.bg-image {
+    background-image: url('../images/register-banner.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.login-heading {
+    font-weight: 300;
+}
+
+.btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+    background: #068932;
+    border: #068932;
+}
+
+.btn-login :hover {
+    background: #fff;
+    color: #000;
+}
+
+.login-form {
+    background: #068932;
+    padding: 20px;
+    border-radius: 20px;
+}
